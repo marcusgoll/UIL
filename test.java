@@ -6,6 +6,6 @@ public class test {
 
     public static void main(String[] args) throws IOException{
         String s="basketbAll";
-        out.print(s.substring(s.indexOf("A")));
+        out.print(s.substring(s.indexOf("a")));
     }
 }
